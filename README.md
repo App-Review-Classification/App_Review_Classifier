@@ -15,10 +15,10 @@ Model Evaluation: Evaluate the trained model's performance by predicting the sen
 ## Requirements
 The code is implemented in Python and requires the following dependencies:
 
-pandas
-numpy
-nltk
-scikit-learn
+- pandas
+- numpy
+- nltk
+- scikit-learn
 
 ## Data preprocessing
 The preprocessing steps applied to the app review data include:
